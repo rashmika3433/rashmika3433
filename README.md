@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rashmika
+- 👋 Hi, I’m Rashmika
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Information & Comunication Technology
+- 🌱 I’m currently doing Information & Comunication Technology degree programme.
 - 💞️ I’m looking to collaborate on Hactoberfest
 - 📫 you can reach me by rashmika3433@gmail.com
 
